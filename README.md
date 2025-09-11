@@ -1,3 +1,4 @@
+<img width="1440" height="900" alt="flask1" src="https://github.com/user-attachments/assets/d2cce8ff-3270-449f-8d30-12e1678a04db" />
 Flask Login Page
 This is a simple Flask web application that provides a login and registration system.
 It demonstrates how to manage user authentication and secure routes in a Flask project.
